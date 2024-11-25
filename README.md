@@ -1,2 +1,2 @@
 # SSAWPN
-The SSAWPN code will be provided after the manuscript is accepted.
+The code of the SSAWPN will be provided after the manuscript is accepted.
